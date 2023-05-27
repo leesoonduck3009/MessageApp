@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846926194758",
+    "project_id": "messageapp-beea2",
+    "storage_bucket": "messageapp-beea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846926194758:android:68bf16cd5482c3aa694247",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846926194758-bmrsoaj3i1tffnjpo84o9puht3pkokir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1tMLWlMtDmxF1XU13P1-p8oHjtdBZz4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846926194758-bmrsoaj3i1tffnjpo84o9puht3pkokir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
